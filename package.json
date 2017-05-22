@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Seizune/bot-telegram#readme",
   "dependencies": {
+    "commitizen": "^2.9.6",
+    "moment": "^2.18.1",
     "telegraf": "^3.7.1"
   }
 }

@@ -1,3 +1,5 @@
-# Bot Telegram
+# Bot Imsakiyah Ramadhan
 
-Bot ini paling ahok dan oke oce
+Bot Telegram Jadwal Imsak , Subuh , dan Berbuka puasa
+
+Add @KartikarfBot untuk menggunakannya
