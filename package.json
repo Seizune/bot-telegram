@@ -1,0 +1,22 @@
+{
+  "name": "bot-telegram",
+  "version": "0.1.0-alpha",
+  "description": "Bot telegram paling oke oce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Seizune/bot-telegram.git"
+  },
+  "author": " <maskatm12@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seizune/bot-telegram/issues"
+  },
+  "homepage": "https://github.com/Seizune/bot-telegram#readme",
+  "dependencies": {
+    "telegraf": "^3.7.1"
+  }
+}
