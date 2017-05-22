@@ -59,8 +59,12 @@ var interval = setInterval(() => {
 
 bot.command('/start', (ctx) => ctx.reply('Hello'))
 bot.on('sticker', (ctx) => ctx.reply('👍'))
+bot.on('call')
 bot.command('/time', (ctx) => {
-    ctx.reply( 'Sekarang Jam ' + moment().format("HH:mm:ss"))
+    ctx.reply("Waktu Imsakiyah Hari ini \nTanggal : " +  tempWaktu.tanggal 
+    + "\nImsak : " + tempWaktu.imsak 
+    + "\nSubuh : " + tempWaktu.subuh
+    + "\nMaghrib : " + tempWaktu.maghrib)
 })
 
 
